@@ -10,6 +10,7 @@
     "dist"
   ],
   "scripts": {
+    "start": "npx http-server ./dist",
     "dev": "vite",
     "build": "vite build"
   },
